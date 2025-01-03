@@ -5,4 +5,4 @@ Detailed descriptions of the exploratory data analysis (EDA), feature engineerin
 ## Summary
 1. Built an artificial neural network that predicts quality (strength) of a cement product.
 2. Trained model, tested predictions against observations, and evaluated performance using appropriate metric.
-3. Optimized the neural network and reshaped it's structure, improving it's efficiency by 61.9%.
+3. Optimized the neural network and reshaped its structure, improving its efficiency by 61.9%.
