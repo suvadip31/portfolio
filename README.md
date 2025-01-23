@@ -13,6 +13,7 @@ From crafting machine learning models to innovating neural network architectures
 ## List of Projects:
 • Claim/Opinion Classification \
 • Employee Retention Prediction \
-• Product Quality Prediction with Neural Network
+• Product Quality Prediction with Neural Network \
+• Stock Price Prediction 
 
 Detailed descriptions of each project are presented in respective project directory.
