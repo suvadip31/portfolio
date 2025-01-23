@@ -9,4 +9,4 @@ Here I have used historical stock price data of Google Inc. to build a machine l
 1. Built a machine learning model in Python that efficiently predicts market stock prices of Google Inc.
 2. Implemented XGBoost algorithm and performed cross-validation to mitigate overfitting.
 3. Performed hyper-parameter tuning using GridSearchCV, improving model efficiency by 26.9%.
-4. Deployed the trained model on test data, comapared the predictions with observations, and identified its key predictors.
+4. Deployed the trained model on test data, compared the predictions with observations, and identified its key predictors.
