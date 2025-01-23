@@ -2,7 +2,7 @@
 
 Investment in Stock market has utter importance in financial world, and plays a crucial role in modern economy. 
 To faciliate proper invesments, it is extremely important to have an idea of changes in stock market prices, and hence, a machine learning model predicting market prices will be beneficial. 
-Here I have used historical stock price data of Google Inc. to build a machine learning model that predicts stock prices efficiently.
+Here I have used historical stock price data of Google Inc. to build a machine learning model that predicts stock prices efficiently. Data was retrieved from Yahoo! Finance.
 
 ## Summary
 
